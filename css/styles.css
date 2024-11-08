@@ -1,0 +1,13 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pelicula{
+    width: 200px;
+}
+.pelicula h2{
+    text-overflow: ellipsis;
+    white-space: none;
+    width: 100%;
+    overflow: hidden;
+}

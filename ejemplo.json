@@ -1,0 +1,418 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 81329,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Un si grand soleil",
+            "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+            "popularity": 3519.173,
+            "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+            "first_air_date": "2018-08-27",
+            "name": "Chronicles of the Sun",
+            "vote_average": 7,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 218145,
+            "origin_country": [
+                "SK"
+            ],
+            "original_language": "sk",
+            "original_name": "Mama na prenájom",
+            "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+            "popularity": 3331.688,
+            "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+            "first_air_date": "2023-01-09",
+            "name": "Mom for rent",
+            "vote_average": 5.516,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 82708,
+            "origin_country": [
+                "NL"
+            ],
+            "original_language": "nl",
+            "original_name": "Brugklas",
+            "overview": "The First Years is a Dutch series for young people in which real-life situations are recreated. The series sheds light on subjects that pupils in the first year of secondary school may be confronted with.",
+            "popularity": 3220.703,
+            "poster_path": "/klPqN1oITjVub0Yss0Kqnx8NfY3.jpg",
+            "first_air_date": "2014-05-26",
+            "name": "The First Years",
+            "vote_average": 4.846,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 112470,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Ici tout commence",
+            "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+            "popularity": 3194.66,
+            "poster_path": "/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+            "first_air_date": "2020-11-02",
+            "name": "Ici tout commence",
+            "vote_average": 6.9,
+            "vote_count": 57
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ZBNbpkLhC2fS90j6onLS8qqfRX.jpg",
+            "genre_ids": [],
+            "id": 4682,
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Strictly Come Dancing: It Takes Two",
+            "overview": "The companion show to the popular BBC One programme Strictly Come Dancing which features interviews and training footage of the couples competing in the main Saturday night show, opinions from the judges on the previous Saturday show and the training footage for the next, and interviews with celebrities who have been watching the show.",
+            "popularity": 2871.241,
+            "poster_path": "/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+            "first_air_date": "2004-10-25",
+            "name": "Strictly Come Dancing: It Takes Two",
+            "vote_average": 3.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mLcD1v4sfoa1juOsBat7Vik7wEe.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 248890,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "en",
+            "original_name": "Ready Steady Cook South Africa",
+            "overview": "In Ready Steady Cook, two teams - a Red Tomato and a Green Pepper - compete in a Red Kitchen and a Green Kitchen, together with a South African chef on each side and paired with enthusiastic home cooks, as they are challenged creatively with a mystery bag of ingredients in a 20-minute cook-off.",
+            "popularity": 2853.656,
+            "poster_path": "/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+            "first_air_date": "2024-03-18",
+            "name": "Ready Steady Cook South Africa",
+            "vote_average": 2.1,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+            "genre_ids": [
+                10763
+            ],
+            "id": 94722,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Tagesschau",
+            "overview": "German daily news program, the oldest still existing program on German television.",
+            "popularity": 2566.061,
+            "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+            "first_air_date": "1952-12-26",
+            "name": "Tagesschau",
+            "vote_average": 6.7,
+            "vote_count": 208
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u4Lh4viuwHGVLFyUnY7YvwOTwl0.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 252373,
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "A Promessa",
+            "overview": "",
+            "popularity": 2556.521,
+            "poster_path": "/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+            "first_air_date": "2024-06-18",
+            "name": "A Promessa",
+            "vote_average": 4.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 2551.181,
+            "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "first_air_date": "2005-09-05",
+            "name": "Ulice",
+            "vote_average": 3.6,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zk3UqXnnK7cpUv6LsD9DS8FtUxb.jpg",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256121,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Lavender Fields",
+            "overview": "Jasmin loved her idyllic life in her mountain town, but a brush with a criminal empire took it all away. Now she's out for revenge with a new identity.",
+            "popularity": 2374.214,
+            "poster_path": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+            "first_air_date": "2024-09-02",
+            "name": "Lavender Fields",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/93R3gd0iNqnib1JKwbWXksDcMY.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 255150,
+            "origin_country": [
+                "PE"
+            ],
+            "original_language": "es",
+            "original_name": "Pituca Sin Lucas",
+            "overview": "",
+            "popularity": 2368.357,
+            "poster_path": "/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Pituca Sin Lucas",
+            "vote_average": 8.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mu3lEhGovyhKHPJzb7HNYtZUCDT.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 206559,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Binnelanders",
+            "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "popularity": 2342.223,
+            "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+            "first_air_date": "2005-10-13",
+            "name": "Binnelanders",
+            "vote_average": 5.5,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wCsDvlcQLwz7fzuZkfe2eS5Pgkh.jpg",
+            "genre_ids": [
+                18,
+                10759
+            ],
+            "id": 256429,
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Pamilya Sagrado",
+            "overview": "The members of the Sagrado family live to prove they are the most powerful and influential, stopping at nothing to bury dirty secrets to keep their name faultless and sacred.",
+            "popularity": 2325.017,
+            "poster_path": "/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+            "first_air_date": "2024-06-17",
+            "name": "Pamilya Sagrado",
+            "vote_average": 9,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+            "genre_ids": [
+                18,
+                10766
+            ],
+            "id": 45789,
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Sturm der Liebe",
+            "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+            "popularity": 2219.637,
+            "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+            "first_air_date": "2005-09-26",
+            "name": "Sturm der Liebe",
+            "vote_average": 5.7,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 72879,
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Demain nous appartient",
+            "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+            "popularity": 2216.691,
+            "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+            "first_air_date": "2017-07-17",
+            "name": "Tomorrow Is Ours",
+            "vote_average": 6.2,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j5CR0gFPjwgmAXkV9HGaF4VMjIW.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                35
+            ],
+            "id": 257064,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Volta por Cima",
+            "overview": "",
+            "popularity": 2182.921,
+            "poster_path": "/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+            "first_air_date": "2024-09-30",
+            "name": "Volta por Cima",
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kvQE5pvZZWCIQ0uAQvzRmQO3nZM.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 231344,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "Los 50",
+            "overview": "Fifty TV stars are single handedly picked by a mysterious, masked Lion to participate in a competition like no other. Living together in an exotic country mansion and competing against each other in a relentless and unpredictable game, the stars must face challenges posed by the game master while making alliances and developing strategies to avoid elimination.",
+            "popularity": 2152.986,
+            "poster_path": "/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+            "first_air_date": "2023-07-18",
+            "name": "Los 50",
+            "vote_average": 8,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ookJ1LS8Uc0ji7cSDuJfV7Qh6Lb.jpg",
+            "genre_ids": [
+                10764
+            ],
+            "id": 18770,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran Hermano",
+            "overview": "Gran Hermano is a reality television series broadcast in Spain on Telecinco and La Siete produced by Endemol. It is part of the Big Brother franchise first developed in the Netherlands. As of February 2012, 19 editions of the show have aired.",
+            "popularity": 2106.154,
+            "poster_path": "/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+            "first_air_date": "2000-04-23",
+            "name": "Gran Hermano",
+            "vote_average": 4.667,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4i3iJepkqqH5JJgTNLJdi8ke6ir.jpg",
+            "genre_ids": [
+                10766
+            ],
+            "id": 249010,
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Kelders van Geheime",
+            "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter – and a glass of wine.",
+            "popularity": 2081.832,
+            "poster_path": "/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+            "first_air_date": "2024-05-06",
+            "name": "Kelders van Geheime",
+            "vote_average": 6.2,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sCTlziZeyf4eWXh09pt63zMtJRw.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "id": 261033,
+            "origin_country": [
+                "SY"
+            ],
+            "original_language": "ar",
+            "original_name": "العميل",
+            "overview": "A police captain infiltrates a notorious gang, only to find himself going deeper down the rabbit hole.",
+            "popularity": 2068.009,
+            "poster_path": "/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+            "first_air_date": "2024-08-18",
+            "name": "The Agent",
+            "vote_average": 1.8,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 9240,
+    "total_results": 184781
+}
